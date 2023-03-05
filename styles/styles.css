@@ -43,7 +43,6 @@ body {
     display: flex;
     flex-direction: column;
     width: 500px;
-    
 }
 
 #display-image{
@@ -101,6 +100,7 @@ cursor: pointer;
     background-color: black;
     color: white;
 }
+
 #memes-List{
     width: 100%;
     font-size: large;
