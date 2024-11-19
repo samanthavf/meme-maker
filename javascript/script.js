@@ -15,37 +15,16 @@ imageInput.addEventListener("change", function(){
 
 async function mapImageList(){
     const memesObject = [{
-        "name": "chapolin",
-        "path":"icons/chapolin.jpg"
-    },
-    {
-        "name": "meme",
-        "path": "Icons/meme.jpg"
+        "name": "meme1",
+        "path": "Icons/meme1.jpg"
     },
     {
         "name": "meme2",
         "path": "Icons/meme2.jpg"
-       
     },
     {
         "name": "meme3",
         "path": "Icons/meme3.jpg"
-    },
-    {
-        "name": "meme4",
-        "path": "Icons/meme4.jpg"
-    },
-    {
-        "name": "meme5",
-        "path": "Icons/meme5.jpg"
-    },
-    {
-        "name": "meme6",
-        "path": "Icons/meme6.png"
-    },
-    {
-        "name": "meme7",
-        "path": "Icons/meme7.jpg"
     },
     ]
     return memesObject
